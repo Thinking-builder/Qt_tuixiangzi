@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/map_element">
+        <file>MapImg/box.png</file>
+        <file>MapImg/semibrick.png</file>
+        <file>MapImg/wadong.png</file>
+    </qresource>
+</RCC>

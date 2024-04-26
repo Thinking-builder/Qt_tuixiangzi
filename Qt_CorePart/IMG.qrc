@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Ele">
+        <file>MapImg/box.png</file>
+        <file>MapImg/boxicon.png</file>
+        <file>MapImg/brick.png</file>
+        <file>MapImg/inpoint.png</file>
+        <file>MapImg/player-d.png</file>
+        <file>MapImg/player-l.png</file>
+        <file>MapImg/player-r.png</file>
+        <file>MapImg/player-t.png</file>
+        <file>MapImg/point.png</file>
+        <file>MapImg/road-3.png</file>
+        <file>MapImg/road.png</file>
+        <file>MapImg/wadong.png</file>
+        <file>MapImg/wall.png</file>
+        <file>map.txt</file>
+    </qresource>
+</RCC>
